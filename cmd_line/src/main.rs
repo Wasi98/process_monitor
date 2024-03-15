@@ -90,3 +90,6 @@ fn main() {
         None => return,
     }
 }
+
+//command
+//cargo run -- -monitorFile C:\Users\User\Desktop\process_monitor\assets\monitors.json
