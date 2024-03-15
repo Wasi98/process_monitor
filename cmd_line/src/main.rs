@@ -77,7 +77,7 @@ fn main() {
                     return;
                 }
             };
-            // println!("this is monitor {:?}", monitors_json);
+            // println!("this is monitor's json file: {:?}", monitors_json);
             // Print monitor details
             // for monitor in monitors_json.monitors {
             //     println!("Monitor Name: {}", monitor.name);
